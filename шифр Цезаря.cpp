@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 #include <windows.h>
 using namespace std;
@@ -20,12 +20,18 @@ int main(){
 				if (a > 'z') {
 					a = a - 'z' + 'a' - 1;
 				}
+				if (a < 'a') {
+					a = a + 'a' + 1;
+				}
 				stroka[i] = a;
 			}
 			else if (a >= 'A' or a <= 'Z') {
 				a += k;
 				if (a > 'Z') {
 					a = a - 'Z' + 'A' - 1;
+				}
+				if (a < 'A') {
+					a = a + 'A' + 1;
 				}
 				stroka[i] = a;
 			}
