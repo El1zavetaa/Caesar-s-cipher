@@ -7,7 +7,7 @@
 # Как пользоваться
 Программу можно открыть в среде программирования Visual Studio Code, нажать f5, откроется окно вывода, ввести любую строку и оценить правильность выполения шифра Цезаря.
 # Скриншоты тестов
-![alt text] (https://github.com/El1zavetaa/-/blob/main/тест%201.jpg)
-![alt text] (https://github.com/El1zavetaa/-/blob/main/тест%202.jpg)
-![alt text] (https://github.com/El1zavetaa/-/blob/main/тест%203.jpg)
-![alt text] (https://github.com/El1zavetaa/-/blob/main/тест%20имя.jpg)
+![alt text](https://github.com/El1zavetaa/-/blob/main/тест%201.jpg)
+![alt text](https://github.com/El1zavetaa/-/blob/main/тест%202.jpg)
+![alt text](https://github.com/El1zavetaa/-/blob/main/тест%203.jpg)
+![alt text](https://github.com/El1zavetaa/-/blob/main/тест%20имя.jpg)
