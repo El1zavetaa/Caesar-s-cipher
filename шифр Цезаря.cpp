@@ -53,6 +53,14 @@ int main()
     cin.getline(s, 150);
     cout << "Введите шаг: ";
     cin >> k;
+    if (cin.fail())
+    {
+        cin.clear();
+        cin.ignore(1, '\n');
+
+        cout << "Ошибка." << endl << endl;
+        return 0;
+    }
     cout << "Зашифрованная строка: " << cipher(s, k) << ' ';
             
 }
