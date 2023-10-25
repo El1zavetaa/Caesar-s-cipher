@@ -10,4 +10,3 @@
 ![alt text](https://github.com/El1zavetaa/-/blob/main/тест%201.jpg)
 ![alt text](https://github.com/El1zavetaa/-/blob/main/тест%202.jpg)
 ![alt text](https://github.com/El1zavetaa/-/blob/main/тест%203.jpg)
-![alt text](https://github.com/El1zavetaa/-/blob/main/тест%20имя.jpg)
